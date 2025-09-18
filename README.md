@@ -1,5 +1,4 @@
 # recommendation-systems
-# Recommendation Systems
 
 This repository contains my personal explorations of various recommendation system techniques, ranging from traditional collaborative filtering to modern deep learning approaches. Each project includes its own dataset, methodology, and evaluation.
 
